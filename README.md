@@ -3,5 +3,7 @@
 # multi-modules
 a maven multi-module project with back-end using spring and front with angular .
 
+# this is a client module that uses the other projects modules
+
 #building with different ci tools 
 jenkins , Travis 
